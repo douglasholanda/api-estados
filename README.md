@@ -1,4 +1,4 @@
-api-estados
+# api-estados
 
 # PASSO 1: 
 Na pasta config, dentro do arquivo default.json, alterar o campo senha para a senha do seu banco MySQL local.

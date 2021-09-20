@@ -1,12 +1,16 @@
 api-estados
 
-# PASSO 1: Na pasta config, dentro do arquivo default.json, alterar o campo senha para a senha do seu banco MySQL local.
+# PASSO 1: 
+Na pasta config, dentro do arquivo default.json, alterar o campo senha para a senha do seu banco MySQL local.
 
-# PASSO 2: Criar um novo database no banco de dados MySQL chamado "estados", via terminal ou MySQL Workbench.
+# PASSO 2: 
+Criar um novo database no banco de dados MySQL chamado "estados", via terminal ou MySQL Workbench.
 
-# PASSO 3: Executar o comando node api/banco-de-dados/criarTabelas.js via terminal para criar nossas tabelas no banco.
+# PASSO 3: 
+Executar o comando node api/banco-de-dados/criarTabelas.js via terminal para criar nossas tabelas no banco.
 
-# PASSO 4: Executar o comando node api/index.js via terminal para iniciar nosso servidor.
+# PASSO 4: 
+Executar o comando node api/index.js via terminal para iniciar nosso servidor.
 
 
 # ACESSANDO RECURSOS DA API:

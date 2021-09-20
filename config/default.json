@@ -1,0 +1,12 @@
+{
+    "mysql": {
+        "banco-de-dados": "estados",
+        "usuario": "root",
+        "senha": "4452100",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "api": {
+        "porta": 3000
+    }
+}

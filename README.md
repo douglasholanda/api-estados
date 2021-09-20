@@ -1,6 +1,6 @@
-# api-estados
+api-estados
 
-# PASSO 1: Na pasta config, dentro do default.json, alterar o campo senha para a senha do seu banco MySQL local.
+# PASSO 1: Na pasta config, dentro do arquivo default.json, alterar o campo senha para a senha do seu banco MySQL local.
 
 # PASSO 2: Criar um novo database no banco de dados MySQL chamado "estados", via terminal ou MySQL Workbench.
 
@@ -10,7 +10,7 @@
 
 
 # ACESSANDO RECURSOS DA API:
-  1. GET -/api/states/ -- localhost:3000/api/states
+  1. GET - /api/states/ -- localhost:3000/api/states
     
      -- Requisição que retornará todos os estados cadastrados no banco.
 
